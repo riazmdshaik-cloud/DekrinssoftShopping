@@ -6,8 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
     
     <groupId>com.example</groupId>
-    <artifactId>ecommerce-app</artifactId>
-    <version>1.0.0</version>
+    <artifactId>ecommerce</artifactId>
     <packaging>war</packaging>  <!-- Changed from jar to war -->
     
     <name>Dekrinssoft Shopping India Pvt Ltd</name>
